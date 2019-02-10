@@ -109,3 +109,4 @@ tb_logs/
 logs/
 saved_models/
 Output/
+saved_models.zip
